@@ -3,8 +3,8 @@
 This project uses machine learning techniques to predict **Flight Price Prediction** 
 
 ## Files in This Repository
-Prediciton_analysis.ipynb – Main notebook containing data analysis and models  
 Clean_Dataset – Dataset used for training and testing  
+Prediciton_analysis.ipynb – Main notebook containing data analysis and models  
 README.md – Project documentation  
 
 ## Project Overview
